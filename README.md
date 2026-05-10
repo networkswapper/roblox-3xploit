@@ -1,3 +1,1 @@
-# roblox-3xploit
-
-** this script for educational we dont take a responsibility
+** bazı oyunlarda test edildi, oyuna zarar veriyor, consolda errorlar artıyor. bilgisayarınız iyi ise kullanın
